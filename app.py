@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="Number Multiplier")
+
 st.header('Enter two numbers to multiply them')
 st.write("")
 
